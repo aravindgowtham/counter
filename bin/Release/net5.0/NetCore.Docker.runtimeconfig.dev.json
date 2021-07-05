@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\SwaaS\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\SwaaS\\.nuget\\packages"
+    ]
+  }
+}

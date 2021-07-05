@@ -1,0 +1,5 @@
+F:\App\bin\Release\net5.0\publish\NetCore.Docker.exe
+F:\App\bin\Release\net5.0\publish\NetCore.Docker.dll
+F:\App\bin\Release\net5.0\publish\NetCore.Docker.deps.json
+F:\App\bin\Release\net5.0\publish\NetCore.Docker.runtimeconfig.json
+F:\App\bin\Release\net5.0\publish\NetCore.Docker.pdb

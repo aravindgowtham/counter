@@ -1,0 +1,16 @@
+F:\App\bin\Debug\net5.0\NetCore.Docker.exe
+F:\App\bin\Debug\net5.0\NetCore.Docker.deps.json
+F:\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.json
+F:\App\bin\Debug\net5.0\NetCore.Docker.runtimeconfig.dev.json
+F:\App\bin\Debug\net5.0\NetCore.Docker.dll
+F:\App\bin\Debug\net5.0\ref\NetCore.Docker.dll
+F:\App\bin\Debug\net5.0\NetCore.Docker.pdb
+F:\App\obj\Debug\net5.0\NetCore.Docker.csprojAssemblyReference.cache
+F:\App\obj\Debug\net5.0\NetCore.Docker.GeneratedMSBuildEditorConfig.editorconfig
+F:\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfoInputs.cache
+F:\App\obj\Debug\net5.0\NetCore.Docker.AssemblyInfo.cs
+F:\App\obj\Debug\net5.0\NetCore.Docker.csproj.CoreCompileInputs.cache
+F:\App\obj\Debug\net5.0\NetCore.Docker.dll
+F:\App\obj\Debug\net5.0\ref\NetCore.Docker.dll
+F:\App\obj\Debug\net5.0\NetCore.Docker.pdb
+F:\App\obj\Debug\net5.0\NetCore.Docker.genruntimeconfig.cache
